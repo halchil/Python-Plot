@@ -22,3 +22,18 @@ python3 -m venv plot
 cd plot
 ```
 ここでクローンを行う。
+
+```
+Scripts/python.exe --version
+```
+
+```
+Scripts/pip.exe list
+Package Version
+------- -------
+pip     25.0.1
+```
+```
+Scripts/pip.exe install numpy
+
+```
